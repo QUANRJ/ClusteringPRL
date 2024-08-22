@@ -1,7 +1,7 @@
 # Clustering for Protein Representation Learning
 This is the official implementation of "Clustering for Protein Representation Learning" (Accepted at CVPR 2024).
 
-![](framework.pdf)
+![](framework.png)
 
 >[Clustering for Protein Representation Learning]([https://arxiv.org/abs/2403.16646](https://openaccess.thecvf.com/content/CVPR2024/papers/Quan_Clustering_for_Protein_Representation_Learning_CVPR_2024_paper.pdf)) <br>
 >[Ruijie Quan](https://scholar.google.com/citations?user=WKLRPsAAAAAJ&hl=en), [Wenguan Wang](https://sites.google.com/view/wenguanwang), [Fan Ma](https://scholar.google.com/citations?user=FyglsaAAAAAJ&hl=en), [Hehe Fan](https://scholar.google.com/citations?user=hVuflMQAAAAJ&hl=en), [Yi Yang](https://scholar.google.com/citations?hl=zh-CN&user=RMSuNFwAAAAJ&view_op=list_works)
